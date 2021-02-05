@@ -1,2 +1,4 @@
-# leetcode_solution
-leetcode_solution arata98
+# code_solution
+code_solution arata98:
+- leetcode
+- hackerrank
